@@ -1,7 +1,7 @@
 # 🧩 Ukryty Wzór – Serious Game (WCST)
 
 **Projekt z przedmiotu:** Języki Programowania Wysokiego Poziomu (JPWP)  
-**Politechnika Gdańska** | Wydział Elektrotechniki i Automatyki  
+**Politechnika Gdańska** | Wydział Elektrotechniki , Telekomunikacji  i Informatyki
 **Autor:** Tymoteusz Kłodawski (EiT, nr albumu: 202395)  
 **Technologia:** C# (.NET 8 / Windows Forms)  
 
